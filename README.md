@@ -1,5 +1,14 @@
 # Social Media App Backend
 
+## Backend Deployed URL
+```
+https://mysocialmediaapp-6g4m.onrender.com
+```
+## output presentation video link
+```
+https://drive.google.com/drive/folders/1rN3uTWrW2NcSTxEonRuuCqKRC9dJng9I?usp=sharing
+```
+
 ## API routes of this app are 👎
 
 1. **GET** `api/user/` --> This endpoint allow us to get list of all the users.    `status code : 200`
