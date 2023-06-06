@@ -14,4 +14,4 @@
 10. **DELETE** `api/posts/:id` --> This endpoint allow users to delete the posts by specific post id.    `status code : 202`
 11. **POST** `api/posts/:id/like` --> This endpoint allow users to like the posts by specific post id.    `status code : 201`
 12. **POST** `api/posts/:id/comment` --> This endpoint allow users to comment on the post by specific post id.    `status code : 201`
-13. **GET** `api/posts/:id` --> This endpoint allow users to comment on the post by specific post id.    `status code : 200`
+13. **GET** `api/posts/:id` --> This endpoint allow users to get the post by specific post id.    `status code : 200`
